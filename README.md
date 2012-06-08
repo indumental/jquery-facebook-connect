@@ -1,4 +1,4 @@
 jquery-facebook-connect
 =======================
 
-jQuery Facebook Connect - http://indumental.com
+jQuery Facebook Connect - By http://indumental.com
